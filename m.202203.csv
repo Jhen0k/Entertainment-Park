@@ -1,0 +1,4 @@
+﻿item_name,is_expense,quantity,sum_of_one
+Хлопушки,TRUE,1000,25
+Автоматы с игрушками,TRUE,20,12000
+Продажа игрушек,FALSE,700,400

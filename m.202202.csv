@@ -1,0 +1,4 @@
+﻿item_name,is_expense,quantity,sum_of_one
+Герлянды,TRUE,20,1500
+Автоматы с сахарной ватой,TRUE,16,7000
+Продажа сахарной ваты,FALSE,4500,50
